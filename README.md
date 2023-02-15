@@ -1,6 +1,6 @@
 # hapstak_3D_DEMO
 
-hapstakデジタル版にて使用可能な  
+[hapstakデジタル版](https://github.com/bit-trade-one/ADACHACY-hapStak)にて使用可能な  
 [ソースコード](https://github.com/bit-trade-one/hapstak_3D_DEMO/blob/master/hapstak_3D_DEMO/hapstak_3D_DEMO.ino) / [3Dプリント用ケース(別リポジトリ)](https://github.com/bit-trade-one/hapstak_3Dprint_Case)を配布しています。
 
 ---
