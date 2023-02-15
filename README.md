@@ -3,7 +3,8 @@
 [hapstakデジタル版](https://github.com/bit-trade-one/ADACHACY-hapStak)にて使用可能な発展的なデモを配布しています。  
 [ソースコード](https://github.com/bit-trade-one/hapstak_3D_DEMO/blob/master/hapstak_3D_DEMO/hapstak_3D_DEMO.ino) / [3Dプリント用ケース](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/3Dprint_Case)
 
----
+
+# 本体構成参考
 
 ![image](https://user-images.githubusercontent.com/85532743/218913817-ff9a2384-bb42-47db-9c99-82d909a57c1d.png)
 
