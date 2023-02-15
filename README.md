@@ -5,20 +5,21 @@
 
 # ソースコード書き込み時の注意
 
-1. 39行目の#define FLG_WRITE_FILESを最初１にしてヘッダファイルを読み込み
+1. 39行目の#define FLG_WRITE_FILESを初回は１にしてソースを書き込む。    
 
+該当箇所
 ```cpp
 #define FLG_WRITE_FILES 0 // 信号ファイルの書き込みを行うかどうか。信号ファイルを初めて書き込むときや変更したときは1、それ以外は0にする。
 ```
 
-2.ソースを書き込み後、ファイル書き込み処理のため、M5ATOM Matrixを一度起動する。  
+2.ファイル書き込み処理のため、M5ATOM Matrixを一度起動する。  
 この際起動に1分程度かかります。LED表示が「1」になったら完了。  
 
-3. 39行目の#define FLG_WRITE_FILESを0にして再度ヘッダファイルを読み込み
+3. 39行目の#define FLG_WRITE_FILESを0にして再度ソースを書き込む。    
 
 4. LED表示が「1」になったら完了。  
 
-[詳細情報(動画あり)](https://protopedia.net/prototype/2580?fbclid=IwAR3THhO-MchysjxQ9p1P9tdGA6_OPB8LnAHB-C3bYj59Ag4bQQjA01_XnqY)
+[詳細情報(参考動画あり)](https://protopedia.net/prototype/2580?fbclid=IwAR3THhO-MchysjxQ9p1P9tdGA6_OPB8LnAHB-C3bYj59Ag4bQQjA01_XnqY)
 
 # 本デモで体験できる振動一覧
 
